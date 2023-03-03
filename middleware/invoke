@@ -1,2 +1,2 @@
 #!/bin/sh
-/usr/bin/invoke_app -t latticeprotein -C "start_jupyter -A -T @tool main.ipynb" -u anaconda-6
+/usr/bin/invoke_app -t chm372probapp -C "start_jupyter -A -T @tool main.ipynb" -u anaconda-6
